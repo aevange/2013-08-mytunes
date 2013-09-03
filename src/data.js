@@ -19,10 +19,9 @@ var songData = [
     title: "One In A Million",
     artist: "Aaliyah"
   },
-
   {
     url: "mp3s/03 Age Ain't Nothing But A Number.mp3",
-    title: "Age Ain't Nothing But A Number.mp3",
+    title: "Age Ain't Nothing But A Number",
     artist: "Aaliyah"
   },
   {
@@ -45,7 +44,7 @@ var songData = [
     title: "Rock The Boat",
     artist: "Aaliyah"
   },
-   {
+  {
     url: "mp3s/14 More Than A Woman.mp3",
     title: "More Than A Woman",
     artist: "Aaliyah"
@@ -55,7 +54,7 @@ var songData = [
     title: "Read Between The Lines",
     artist: "Aaliyah"
   },
-   {
+  {
     url: "mp3s/16 It's Whatever.mp3",
     title: "It's Whatever",
     artist: "Aaliyah"
